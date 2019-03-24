@@ -6,5 +6,6 @@
 Just download your messages history as JSON format from Facebook setting, load it in Link Jesus, export the kind of links you prefer as a text file.
 
 Download here: https://github.com/kalamoni/LinksJesus/releases
-
+<p align="center"> 
 <img src="https://github.com/kalamoni/LinksJesus/raw/master/screenshot.png" width="700">
+</p>
